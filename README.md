@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=simholmen&show_icons=true&title_color=#4dffb3&text_color=#4dffb3&icon_color=#4dffb3" alt="" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=simholmen&theme=green" alt="" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simholmen&layout=compact" alt="" />
 <!--
 **simholmen/simholmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

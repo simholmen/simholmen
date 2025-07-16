@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Sjekk ut min portofølje!
+https://portfolioreact-gxg203a32-simholmens-projects.vercel.app
+
 <details>
   <summary>Min Github Statistikk</summary>
   

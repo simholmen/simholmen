@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Sjekk ut min portofølje!
-https://portfolioreact-gxg203a32-simholmens-projects.vercel.app
+https://portfolioreact-simholmens-projects.vercel.app/
 
 ## Min Github Statistikk
   

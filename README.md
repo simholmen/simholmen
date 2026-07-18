@@ -3,10 +3,6 @@
 Sjekk ut min portofølje!
 https://portfolioreact-simholmens-projects.vercel.app/
 
-## Min Github Statistikk
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=simholmen&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simholmen&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 <!--
 **simholmen/simholmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

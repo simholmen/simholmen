@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Sjekk ut min portofølje!
-https://portfolioreact-simholmens-projects.vercel.app/
+https://simenholmen.no
 
 <!--
 **simholmen/simholmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

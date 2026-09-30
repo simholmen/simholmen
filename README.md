@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Brukte eksklusivt Azure i perioden januar - mai 2026 hvis noen lurer på hvorfor det er så tomt der..
+
 Sjekk ut min portofølje!
 https://simenholmen.no
 

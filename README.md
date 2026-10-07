@@ -2,7 +2,7 @@
 
 Brukte eksklusivt Azure i perioden januar - august 2026 hvis noen lurer på hvorfor det er så tomt der (Sjekk porteføljen min hvorfor)..
 
-Sjekk ut min portofølje!
+Sjekk ut min portefølje!
 https://simenholmen.no
 
 <!--
